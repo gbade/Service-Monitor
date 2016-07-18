@@ -1,0 +1,9 @@
+#logo{
+   background-image:url(images/paycom_logo.png);
+   float:left;
+}   
+#right{
+    float: right;
+    right: inherit;
+    position:fixed;
+}  

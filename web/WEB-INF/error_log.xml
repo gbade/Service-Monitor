@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <error_log>
+        <service_source>NIBSS</service_source>
+        <channel>mobile</channel>
+        <transaction_type>top up</transaction_type>
+        <provider_name>Etisalat</provider_name>
+        <pido_account>08094815689</pido_account>
+        <beneficiary_id>080372755727</beneficiary_id>
+        <error_description>Error connecting to account</error_description>
+        <error_date>2013-6-21 10:36:34 AM</error_date>
+    </error_log>
+
+    
+
+ 

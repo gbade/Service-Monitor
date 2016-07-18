@@ -1,0 +1,66 @@
+* { font-size: 12px; font-family: Verdana }
+
+input { border: 1px solid #ccc }
+
+a#currentTab {
+    border-bottom:1px solid #fff;
+}
+
+a { 
+    color: black; 
+    text-decoration:none;
+    padding:5px; 
+    border: 1px solid #aaa;
+}
+
+a:hover { 
+    background: #ccc 
+}
+
+td { 
+    border: 1px solid #ccc; 
+    padding: 3px;
+}
+th { 
+    border: 1px solid #ccc; 
+    padding: 3px; 
+    background: #009999; 
+    color: white;
+}
+
+.navigator { 
+    border-bottom:1px solid #aaa; 
+    width:300px; 
+    padding:5px;
+}
+
+#header_container { 
+    /*background:#eee;*/ 
+    border:1px solid #ccc; 
+    height:30px; 
+    left:0; 
+    position:fixed; 
+    width:100%; 
+    top:0; 
+}
+#header{
+    
+    line-height:30px; 
+    margin:0 auto; 
+    width:940px;
+}
+#login{
+    left: 900;
+    top: 200;
+    position: fixed;
+
+}
+/**#right{
+    float: right;
+    right: inherit;
+    position:fixed;
+}   
+#logo{
+   background-image:url(../images/paycom_logo.png);
+   float:left;
+}**/  

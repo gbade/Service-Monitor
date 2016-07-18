@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<web-app>
+    <display-name>Service_Monitor</display-name>
+    <servlet>
+        <display-name>LoginAuthentication</display-name>
+        <servlet-name>LoginAuthentication</servlet-name>
+        <servlet-class>com.logger.LoginAuthentication</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>LoginAuthentication</servlet-name>
+        <url-pattern>/LoginAuthentication</url-pattern>
+    </servlet-mapping>
+    
+</web-app>
